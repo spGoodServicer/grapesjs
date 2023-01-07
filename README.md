@@ -3,7 +3,7 @@ Create dropdown menu inside options panel
 ![image](https://user-images.githubusercontent.com/106048648/211146238-9ba75ad6-ca83-4479-b52f-2304a8ddd738.png)
 
 
-var devicesDropdownDiv = document.createElement('div');
+                                            var devicesDropdownDiv = document.createElement('div');
                                             devicesDropdownDiv.className='gjs-dropdown';
                                             devicesDropdownDiv.innerHTML = `
                                                 <div class="select-device all">All Devices</div>
